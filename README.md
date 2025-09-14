@@ -1,1 +1,1 @@
-wwwqwertyuiopasdfghjkl
+python manage.py startapp blog
